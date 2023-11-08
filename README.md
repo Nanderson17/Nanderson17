@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Nanderson17/Nanderson17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord: Nanderson#5560 
 - 😄 Pronouns: Rave in the grave 🤘🪦
 - ⚡ Fun fact: I am not 17. For real.
--->
